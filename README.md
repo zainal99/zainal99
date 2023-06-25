@@ -2,7 +2,7 @@
 <h3 align="center"> Node Runner & Bug Hunter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainal&label=Profile%20views&color=129e00&style=plastic" alt="zainal" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="zainal.jpg">
+<img align="right" alt="Coding" width="250" height="400" src="https://ibb.co/nm0XZHZ">
 
 - 👨‍💻 You can also check out my portfolio at [https://galaxie.co/p/zainal](https://galaxie.co/p/zainal/)
 
